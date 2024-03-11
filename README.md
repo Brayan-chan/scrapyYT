@@ -4,7 +4,7 @@ Este repositorio serviria para poder obtener informacion de direntes HTML y así
 el cual al ingresar palabras clabe como IA dentro de un buscador este devuelva diferentes resultados incluyendo videos, imagenes etc.
 <hr>
 
-## Utilizaremos Node Js por lo tanto lo primero que hay que hacer es inicializar npm para crear el package json
+Utilizaremos Node Js por lo tanto lo primero que hay que hacer es inicializar npm para crear el package json
 
 ```
 
@@ -14,7 +14,7 @@ el cual al ingresar palabras clabe como IA dentro de un buscador este devuelva d
 
 <hr>
 
-## Utilizaremos promesas de JavaScript y librerias como puppeteer para poder lograr este proyecto y luego poderlo implementar en mi aplicacion personal
+Utilizaremos promesas de JavaScript y librerias como puppeteer para poder lograr este proyecto y luego poderlo implementar en mi aplicacion personal
 
 ```
 
